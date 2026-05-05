@@ -1,0 +1,40 @@
+baseURL = "https://isaaclainey-jpg.github.io/evok-blog/"
+languageCode = "en-us"
+title = "Local AI Lab"
+theme = "PaperMod"
+
+[params]
+  description = "Building local AI tools, automation, and self-hosted systems"
+  author = "Isaac Lainey"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+
+[params.homeInfoParams]
+  Title = "Welcome to Local AI Lab"
+  Content = "Practical guides on local AI, self-hosted automation, and building things that run on your own hardware."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/isaaclainey-jpg"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
