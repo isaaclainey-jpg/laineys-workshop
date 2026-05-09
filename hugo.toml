@@ -1,6 +1,6 @@
-baseURL = "https://isaaclainey-jpg.github.io/evok-blog/"
+baseURL = "https://isaaclainey-jpg.github.io/laineys-workshop/"
 languageCode = "en-us"
-title = "Local AI Lab"
+title = "Lainey's Workshop"
 theme = "PaperMod"
 
 [params]
