@@ -46,7 +46,7 @@ If you're interested in trying this setup yourself, start with a small project a
 
 📬 **Join Lainey's Workshop**
 
-Local AI, self-hosting, dev tools. Deep technical guides for builders. 2 emails per week.
+Local AI, [self-hosting](https://www.[vultr](https://www.vultr.com/?ref=9899885).com/?ref=9899885), dev tools. Deep technical guides for builders. 2 emails per week.
 
 [**Subscribe free** →](https://lainey-s-workshop.kit.com/13bd198484)
 
