@@ -67,8 +67,8 @@ Local AI, [self-hosting](https://www.[vultr](https://www.vultr.com/?ref=9899885)
 
 🚀 **[Homelab](https://www.vultr.com/?ref=9899885) Cost Calculator (Excel)**
 
-Plan your homelab build - GPUs, CPUs, storage, power consumption, ROI calculations.
+57 production-ready docker-compose.yml files in 8 categories. Includes Excel index and 12-page Quickstart Guide PDF.
 
-[**Get it for $12** →](https://gumroad.com/isaaclainey)
+[**Get it for $12** →](https://laineysworkshop.gumroad.com/l/gnwjy?utm_source=workshop&utm_medium=article&utm_campaign=docker_lib)
 
 ---

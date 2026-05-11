@@ -77,10 +77,10 @@ Local AI, [self-hosting](https://www.[vultr](https://www.vultr.com/?ref=9899885)
 
 ---
 
-🚀 **Local AI Deployment Guide (PDF)**
+🚀 **Local AI Setup Bible 2026**
 
-Step-by-step deployment of Ollama, vLLM, Faster-Whisper on your own hardware.
+61-page complete guide: hardware selection, single + multi-GPU setups, Ollama/vLLM/Whisper deployment, fine-tuning with LoRA, RAG at scale, voice agents, production monitoring.
 
-[**Get it for $19** →](https://gumroad.com/isaaclainey)
+[**Get it for $29** →](https://laineysworkshop.gumroad.com/l/rbhgps?utm_source=workshop&utm_medium=article&utm_campaign=ai_bible)
 
 ---
